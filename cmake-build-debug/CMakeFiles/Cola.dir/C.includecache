@@ -6,19 +6,21 @@
 
 #IncludeRegexTransform: 
 
-/home/lucas/CLionProjects/Cola/cola.c
-cola.h
-/home/lucas/CLionProjects/Cola/cola.h
-nodo.h
-/home/lucas/CLionProjects/Cola/nodo.h
-stdlib.h
--
-
 /home/lucas/CLionProjects/Cola/cola.h
 stdbool.h
 -
 
-/home/lucas/CLionProjects/Cola/nodo.h
+/home/lucas/CLionProjects/Cola/pruebas_cola.c
+cola.h
+/home/lucas/CLionProjects/Cola/cola.h
+testing.h
+/home/lucas/CLionProjects/Cola/testing.h
+stdio.h
+-
+stdlib.h
+-
+
+/home/lucas/CLionProjects/Cola/testing.h
 stdbool.h
 -
 
