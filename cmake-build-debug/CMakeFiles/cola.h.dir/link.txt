@@ -1,0 +1,2 @@
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ar.exe qc libcola.h.a CMakeFiles/cola.h.dir/testing.c.obj CMakeFiles/cola.h.dir/cola.c.obj CMakeFiles/cola.h.dir/pruebas_cola.c.obj CMakeFiles/cola.h.dir/nodo.c.obj
+C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\ranlib.exe libcola.h.a

@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Lucas Williams/CLionProjects/Cola/cola.c
+cola.h
+C:/Users/Lucas Williams/CLionProjects/Cola/cola.h
+nodo.h
+C:/Users/Lucas Williams/CLionProjects/Cola/nodo.h
+stdlib.h
+-
+
+C:/Users/Lucas Williams/CLionProjects/Cola/cola.h
+stdbool.h
+-
+
+C:/Users/Lucas Williams/CLionProjects/Cola/nodo.h
+stdbool.h
+-
+
+C:/Users/Lucas Williams/CLionProjects/Cola/pruebas_cola.c
+cola.h
+C:/Users/Lucas Williams/CLionProjects/Cola/cola.h
+testing.h
+C:/Users/Lucas Williams/CLionProjects/Cola/testing.h
+stdio.h
+-
+
+C:/Users/Lucas Williams/CLionProjects/Cola/testing.h
+stdbool.h
+-
+
