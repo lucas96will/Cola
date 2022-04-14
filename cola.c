@@ -76,7 +76,7 @@ void *cola_desencolar(cola_t *cola){
         return NULL;
     }
     /*Obtengo el dato*/
-    void* dato = nodo_obtener_dato(cola_ver_primero(cola));
+    void* dato = cola_ver_primero(cola);
 
     /*first in first out*/
     nodo_t* nodo_eliminar = cola -> primero;

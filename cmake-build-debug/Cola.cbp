@@ -8,135 +8,139 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/Lucas Williams/CLionProjects/Cola/cmake-build-debug"/>
+				<Option working_dir="/home/lucas/CLionProjects/Cola/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Lucas Williams/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Lucas Williams/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Lucas Williams/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Lucas Williams/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="cola.h">
-				<Option output="C:/Users/Lucas Williams/CLionProjects/Cola/cmake-build-debug/libcola.h.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Lucas Williams/CLionProjects/Cola/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="2"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
-					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Lucas Williams/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 cola.h"/>
-					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Lucas Williams/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Lucas Williams/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Lucas Williams/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="cola.h/fast">
-				<Option output="C:/Users/Lucas Williams/CLionProjects/Cola/cmake-build-debug/libcola.h.a" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Lucas Williams/CLionProjects/Cola/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="2"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
-					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Lucas Williams/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 cola.h/fast"/>
-					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Lucas Williams/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Lucas Williams/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Lucas Williams/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="edit_cache">
-				<Option working_dir="C:/Users/Lucas Williams/CLionProjects/Cola/cmake-build-debug"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Lucas Williams/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Lucas Williams/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Lucas Williams/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Lucas Williams/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="Cola">
-				<Option output="C:/Users/Lucas Williams/CLionProjects/Cola/cmake-build-debug/Cola.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Lucas Williams/CLionProjects/Cola/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
-					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Lucas Williams/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 Cola"/>
-					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Lucas Williams/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Lucas Williams/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Lucas Williams/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="Cola/fast">
-				<Option output="C:/Users/Lucas Williams/CLionProjects/Cola/cmake-build-debug/Cola.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/Lucas Williams/CLionProjects/Cola/cmake-build-debug"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
-					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
-					<Add directory="C:/Program Files (x86)/mingw-w64/i686-8.1.0-posix-dwarf-rt_v6-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Lucas Williams/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 Cola/fast"/>
-					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Lucas Williams/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Lucas Williams/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Lucas Williams/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/lucas/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/lucas/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/lucas/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/lucas/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/Lucas Williams/CLionProjects/Cola/cmake-build-debug"/>
+				<Option working_dir="/home/lucas/CLionProjects/Cola/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Lucas Williams/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Lucas Williams/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Lucas Williams/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-8~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/Lucas Williams/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/lucas/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/lucas/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/lucas/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/lucas/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Cola">
+				<Option output="/home/lucas/CLionProjects/Cola/cmake-build-debug/Cola" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lucas/CLionProjects/Cola/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/lucas/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 Cola"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/lucas/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/lucas/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/lucas/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Cola/fast">
+				<Option output="/home/lucas/CLionProjects/Cola/cmake-build-debug/Cola" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lucas/CLionProjects/Cola/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/lucas/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 Cola/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/lucas/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/lucas/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/lucas/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/lucas/CLionProjects/Cola/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/lucas/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/lucas/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/lucas/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/lucas/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cola.h">
+				<Option output="/home/lucas/CLionProjects/Cola/cmake-build-debug/libcola.h.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lucas/CLionProjects/Cola/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/lucas/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 cola.h"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/lucas/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/lucas/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/lucas/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="cola.h/fast">
+				<Option output="/home/lucas/CLionProjects/Cola/cmake-build-debug/libcola.h.a" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/lucas/CLionProjects/Cola/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/lucas/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 cola.h/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/lucas/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/lucas/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/lucas/CLionProjects/Cola/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/Lucas Williams/CLionProjects/Cola/cola.c">
-			<Option target="cola.h"/>
+		<Unit filename="/home/lucas/CLionProjects/Cola/cola.c">
 			<Option target="Cola"/>
-		</Unit>
-		<Unit filename="C:/Users/Lucas Williams/CLionProjects/Cola/cola.h">
-			<Option target="Cola"/>
-		</Unit>
-		<Unit filename="C:/Users/Lucas Williams/CLionProjects/Cola/nodo.c">
-			<Option target="cola.h"/>
-			<Option target="Cola"/>
-		</Unit>
-		<Unit filename="C:/Users/Lucas Williams/CLionProjects/Cola/nodo.h">
-			<Option target="cola.h"/>
-			<Option target="Cola"/>
-		</Unit>
-		<Unit filename="C:/Users/Lucas Williams/CLionProjects/Cola/pruebas_cola.c">
-			<Option target="cola.h"/>
-			<Option target="Cola"/>
-		</Unit>
-		<Unit filename="C:/Users/Lucas Williams/CLionProjects/Cola/testing.c">
-			<Option target="cola.h"/>
-			<Option target="Cola"/>
-		</Unit>
-		<Unit filename="C:/Users/Lucas Williams/CLionProjects/Cola/testing.h">
 			<Option target="cola.h"/>
 		</Unit>
-		<Unit filename="C:/Users/Lucas Williams/CLionProjects/Cola/CMakeLists.txt">
+		<Unit filename="/home/lucas/CLionProjects/Cola/cola.h">
+			<Option target="Cola"/>
+		</Unit>
+		<Unit filename="/home/lucas/CLionProjects/Cola/nodo.c">
+			<Option target="Cola"/>
+			<Option target="cola.h"/>
+		</Unit>
+		<Unit filename="/home/lucas/CLionProjects/Cola/nodo.h">
+			<Option target="Cola"/>
+			<Option target="cola.h"/>
+		</Unit>
+		<Unit filename="/home/lucas/CLionProjects/Cola/pruebas_cola.c">
+			<Option target="Cola"/>
+			<Option target="cola.h"/>
+		</Unit>
+		<Unit filename="/home/lucas/CLionProjects/Cola/testing.c">
+			<Option target="Cola"/>
+			<Option target="cola.h"/>
+		</Unit>
+		<Unit filename="/home/lucas/CLionProjects/Cola/testing.h">
+			<Option target="cola.h"/>
+		</Unit>
+		<Unit filename="/home/lucas/CLionProjects/Cola/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

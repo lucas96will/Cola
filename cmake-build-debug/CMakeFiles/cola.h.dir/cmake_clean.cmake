@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/cola.h.dir/cola.c.obj"
-  "CMakeFiles/cola.h.dir/nodo.c.obj"
-  "CMakeFiles/cola.h.dir/pruebas_cola.c.obj"
-  "CMakeFiles/cola.h.dir/testing.c.obj"
+  "CMakeFiles/cola.h.dir/cola.c.o"
+  "CMakeFiles/cola.h.dir/nodo.c.o"
+  "CMakeFiles/cola.h.dir/pruebas_cola.c.o"
+  "CMakeFiles/cola.h.dir/testing.c.o"
   "libcola.h.a"
   "libcola.h.pdb"
 )

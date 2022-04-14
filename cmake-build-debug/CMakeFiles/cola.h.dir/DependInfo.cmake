@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "C:/Users/Lucas Williams/CLionProjects/Cola/cola.c" "C:/Users/Lucas Williams/CLionProjects/Cola/cmake-build-debug/CMakeFiles/cola.h.dir/cola.c.obj"
-  "C:/Users/Lucas Williams/CLionProjects/Cola/nodo.c" "C:/Users/Lucas Williams/CLionProjects/Cola/cmake-build-debug/CMakeFiles/cola.h.dir/nodo.c.obj"
-  "C:/Users/Lucas Williams/CLionProjects/Cola/pruebas_cola.c" "C:/Users/Lucas Williams/CLionProjects/Cola/cmake-build-debug/CMakeFiles/cola.h.dir/pruebas_cola.c.obj"
-  "C:/Users/Lucas Williams/CLionProjects/Cola/testing.c" "C:/Users/Lucas Williams/CLionProjects/Cola/cmake-build-debug/CMakeFiles/cola.h.dir/testing.c.obj"
+  "/home/lucas/CLionProjects/Cola/cola.c" "/home/lucas/CLionProjects/Cola/cmake-build-debug/CMakeFiles/cola.h.dir/cola.c.o"
+  "/home/lucas/CLionProjects/Cola/nodo.c" "/home/lucas/CLionProjects/Cola/cmake-build-debug/CMakeFiles/cola.h.dir/nodo.c.o"
+  "/home/lucas/CLionProjects/Cola/pruebas_cola.c" "/home/lucas/CLionProjects/Cola/cmake-build-debug/CMakeFiles/cola.h.dir/pruebas_cola.c.o"
+  "/home/lucas/CLionProjects/Cola/testing.c" "/home/lucas/CLionProjects/Cola/cmake-build-debug/CMakeFiles/cola.h.dir/testing.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
