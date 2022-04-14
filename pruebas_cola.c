@@ -4,7 +4,7 @@
 #include <stdlib.h>
 
 #define TAM_PRUEBA 5
-#define TAM_VOLUMEN 10
+#define TAM_VOLUMEN 1000
 
 static void prueba_cola_crear(void){
     cola_t* cola = cola_crear();
