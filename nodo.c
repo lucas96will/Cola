@@ -29,15 +29,15 @@ void nodo_destruir(nodo_t* nodo){
 }
 
 void* nodo_obtener_dato(nodo_t* nodo){
-    return nodo -> dato;
+    return nodo->dato;
 }
 
 nodo_t* nodo_obtener_siguiente(nodo_t* nodo){
-    return nodo -> siguiente;
+    return nodo->siguiente;
 }
 
 void nodo_modificar_siguiente(nodo_t* nodo, nodo_t* nuevo_siguiente){
-    nodo -> siguiente = nuevo_siguiente;
+    nodo->siguiente = nuevo_siguiente;
 }
 
 

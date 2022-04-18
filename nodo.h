@@ -21,7 +21,7 @@ nodo_t* nodo_crear(void* dato);
 
 // Destruye el nodo.
 // Pre: El nodo fue creado
-// Post: se eliminaron todos los elementos del nodo y el siguiente
+// Post: se elimino el nodo
 // nodo al que apunta es NULL.
 void nodo_destruir(nodo_t* nodo);
 
